@@ -1,0 +1,5 @@
+#EANFInder 
+Prisman Foodie.fi sivulta
+
+#DISCLAIMER
+NO WARRANTY, SCRAPE RESPONSIBLY

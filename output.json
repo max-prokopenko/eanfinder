@@ -1,0 +1,2533 @@
+{
+    "name": "Omena Red Delicious",
+    "ean": 2000518600004,
+    "price": "1.89"
+}{
+    "name": "Luomuomena Gala",
+    "ean": 2000519800007,
+    "price": "2.98"
+}{
+    "name": "Omena Suomi",
+    "ean": 2000515400003,
+    "price": "1.98"
+}{
+    "name": "Omena Ida Red",
+    "ean": 2000532000002,
+    "price": "0.85"
+}{
+    "name": "Omena Golden",
+    "ean": 2000514300007,
+    "price": "1.95"
+}{
+    "name": "Omena Royal Gala",
+    "ean": 2000515100002,
+    "price": "2.19"
+}{
+    "name": "Omena Granny Smith",
+    "ean": 2000515000005,
+    "price": "1.98"
+}{
+    "name": "Omena Honey Crunch",
+    "ean": 2000515600007,
+    "price": "2.69"
+}{
+    "name": "Omena Juliet Luomu",
+    "ean": 2000563000002,
+    "price": "3.39"
+}{
+    "name": "Omena Golden Delicio Luom",
+    "ean": 2000514400004,
+    "price": "3.19"
+}{
+    "name": "Omena Jonagold",
+    "ean": 2000516200008,
+    "price": "1.19"
+}{
+    "name": "Nektariini Rasia Alpine",
+    "ean": 7808725201022,
+    "price": "2.59"
+}{
+    "name": "Rypälemix",
+    "ean": 6414894500418,
+    "price": "3.98"
+}{
+    "name": "Banaani",
+    "ean": 2000503600002,
+    "price": "1.29"
+}{
+    "name": "Banaani Luomu",
+    "ean": 2000503700009,
+    "price": "1.79"
+}{
+    "name": "Omena Red Delicious",
+    "ean": 2000518600004,
+    "price": "1.89"
+}{
+    "name": "Päärynä Abate Fetel",
+    "ean": 2000522000005,
+    "price": "3.15"
+}{
+    "name": "Luomupäärynä Conference",
+    "ean": 2000523200008,
+    "price": "4.15"
+}{
+    "name": "Omenapäärynä",
+    "ean": 2000505000008,
+    "price": "2.75"
+}{
+    "name": "Päärynä Conference",
+    "ean": 2000522100002,
+    "price": "1.95"
+}{
+    "name": "Päärynärasia",
+    "ean": 6414890440176,
+    "price": "1.65"
+}{
+    "name": "Päärynä Sweet Sensation",
+    "ean": 2000523300005,
+    "price": "3.49"
+}{
+    "name": "Luumurasia Keltainen",
+    "ean": 6009655300118,
+    "price": "2.49"
+}{
+    "name": "Nektariini Rasia Alpine",
+    "ean": 7808725201022,
+    "price": "2.59"
+}{
+    "name": "Luumurasia Keltainen",
+    "ean": 6009655300118,
+    "price": "2.49"
+}{
+    "name": "Rypälerasia Vihreä",
+    "ean": 6414894500609,
+    "price": "2.49"
+}{
+    "name": "Rypälerasia Vihreä Luomu",
+    "ean": 8713037004065,
+    "price": "3.79"
+}{
+    "name": "Verigreippi",
+    "ean": 2000530800000,
+    "price": "2.85"
+}{
+    "name": "Greippi White Marsh",
+    "ean": 2000507300007,
+    "price": "2.29"
+}{
+    "name": "Hunajapomelo",
+    "ean": 2000531100000,
+    "price": "1.85"
+}{
+    "name": "Pomelo Red",
+    "ean": 2000531200007,
+    "price": "2.79"
+}{
+    "name": "Sweetie",
+    "ean": 2000531400001,
+    "price": "2.19"
+}{
+    "name": "Valkosipuli",
+    "ean": 2000615200008,
+    "price": "7.29"
+}{
+    "name": "Luomuvalkosipuli",
+    "ean": 8412187000711,
+    "price": "1.09"
+}{
+    "name": "Valkosipuli",
+    "ean": 6414894501255,
+    "price": "0.79"
+}{
+    "name": "Valkosipuli (Yksi Kynsi)",
+    "ean": 6414893387997,
+    "price": "1.49"
+}{
+    "name": "Valkosipuli",
+    "ean": 8412187000254,
+    "price": "2.89"
+}{
+    "name": "Avokadopussi",
+    "ean": 7340011432371,
+    "price": "2.79"
+}{
+    "name": "Avokado Hass Esikypsytt.",
+    "ean": 2000503400008,
+    "price": "5.98"
+}{
+    "name": "Persimon",
+    "ean": 2003305600003,
+    "price": "2.39"
+}{
+    "name": "Kiivi Hayward",
+    "ean": 2000506600009,
+    "price": "2.69"
+}{
+    "name": "Kiivirasia",
+    "ean": 7340011428497,
+    "price": "1.29"
+}{
+    "name": "Vesimeloni Red",
+    "ean": 2000508300006,
+    "price": "1.49"
+}{
+    "name": "Granaattiomena",
+    "ean": 2000504500004,
+    "price": "5.29"
+}{
+    "name": "Hunajameloni Kelt",
+    "ean": 2000508200009,
+    "price": "1.79"
+}{
+    "name": "Ananas Makea",
+    "ean": 2000520500002,
+    "price": "1.98"
+}{
+    "name": "Mango",
+    "ean": 2000512200002,
+    "price": "3.29"
+}{
+    "name": "Luumurasia Tumma",
+    "ean": 6009655300101,
+    "price": "2.49"
+}{
+    "name": "Cantaloupemeloni",
+    "ean": 2000598200002,
+    "price": "2.69"
+}{
+    "name": "Kiivirasia Luomu",
+    "ean": 8713037001071,
+    "price": "1.19"
+}{
+    "name": "Viikuna",
+    "ean": 2000513300008,
+    "price": "14.90"
+}{
+    "name": "Cantaloupe-Meloni Pala",
+    "ean": 2000502900004,
+    "price": "2.89"
+}{
+    "name": "Taateli",
+    "ean": 5708147000024,
+    "price": "4.98"
+}{
+    "name": "Luomu Avocado",
+    "ean": 8713037000241,
+    "price": "2.85"
+}{
+    "name": "Passionhedelmä",
+    "ean": 2000520200001,
+    "price": "10.29"
+}{
+    "name": "Hunajameloni Pala",
+    "ean": 2000506100004,
+    "price": "2.59"
+}{
+    "name": "Avokado Syöntikypsä 2Kpl",
+    "ean": 8718366857269,
+    "price": "13.17"
+}{
+    "name": "Kuorittu Ananas",
+    "ean": 6430051980008,
+    "price": "4.45"
+}{
+    "name": "Vesimeloni (Palana)",
+    "ean": 2000529900001,
+    "price": "2.19"
+}{
+    "name": "Ananas Luomu",
+    "ean": 8713037004225,
+    "price": "2.69"
+}{
+    "name": "Tumma Luumu Irto",
+    "ean": 2000502800007,
+    "price": "3.45"
+}{
+    "name": "Karambola",
+    "ean": 2000506400005,
+    "price": "10.98"
+}{
+    "name": "Mango Syöntikypsä",
+    "ean": 8718366761771,
+    "price": "3.75"
+}{
+    "name": "Galia-Meloni",
+    "ean": 2000504400007,
+    "price": "2.69"
+}{
+    "name": "Papaija",
+    "ean": 2000520100004,
+    "price": "4.89"
+}{
+    "name": "Avokado semil",
+    "ean": 2001572000007,
+    "price": "5.45"
+}{
+    "name": "Ananaskirsikka",
+    "ean": 8718366803136,
+    "price": "1.35"
+}{
+    "name": "Kookospähkinä",
+    "ean": 200004990011,
+    "price": "1.19"
+}{
+    "name": "Kumkvatti",
+    "ean": 2000507800002,
+    "price": "8.25"
+}{
+    "name": "Luomutaateli",
+    "ean": 7316150270969,
+    "price": "3.79"
+}{
+    "name": "Pitahaya",
+    "ean": 2000513200001,
+    "price": "15.49"
+}{
+    "name": "Galia-Meloni Pala",
+    "ean": 2000504200003,
+    "price": "3.85"
+}{
+    "name": "Luomu Mango",
+    "ean": 2001758900008,
+    "price": "4.19"
+}{
+    "name": "Piele De Sapo Meloni",
+    "ean": 2000598100005,
+    "price": "1.98"
+}{
+    "name": "Kiwano",
+    "ean": 2000508100002,
+    "price": "12.39"
+}{
+    "name": "Tuoreet Ananaspalat",
+    "ean": 6430051980015,
+    "price": "3.39"
+}{
+    "name": "Rambutan",
+    "ean": 2000527700009,
+    "price": "15.29"
+}{
+    "name": "Graniittiomenan Siemeniä",
+    "ean": 8717755795731,
+    "price": "3.59"
+}{
+    "name": "Miniananas",
+    "ean": 2000512800004,
+    "price": "6.75"
+}{
+    "name": "Keittobanaani",
+    "ean": 2002709200000,
+    "price": "3.39"
+}{
+    "name": "Pepino",
+    "ean": 2000521200000,
+    "price": "12.19"
+}{
+    "name": "Tamarillo",
+    "ean": 2000529100005,
+    "price": "14.69"
+}{
+    "name": "Tuoreet Vesimelonipalat",
+    "ean": 6430051980107,
+    "price": "3.39"
+}{
+    "name": "Granadilla",
+    "ean": 2002077900007,
+    "price": "17.89"
+}{
+    "name": "Omena Golden Delicio Luom",
+    "ean": 2000514400004,
+    "price": "3.19"
+}{
+    "name": "Kaalipala Pakattu",
+    "ean": 2000572100007,
+    "price": "1.79"
+}{
+    "name": "Keräkaali",
+    "ean": 2000615600006,
+    "price": "0.49"
+}{
+    "name": "Omena Golden",
+    "ean": 2000514300007,
+    "price": "1.95"
+}{
+    "name": "Punakaali Pakattu",
+    "ean": 2000613300007,
+    "price": "1.89"
+}{
+    "name": "Punakaali",
+    "ean": 2005099200001,
+    "price": "0.98"
+}{
+    "name": "Pikkukeräkaali 1,0Kg",
+    "ean": 6414894502375,
+    "price": "1.79"
+}{
+    "name": "Keräkaali Luomu",
+    "ean": 2000603100006,
+    "price": "2.19"
+}{
+    "name": "Appelsiini Navel",
+    "ean": 2000501400000,
+    "price": "0.89"
+}{
+    "name": "Mandarin Nadorcott Bruno",
+    "ean": 2000528200003,
+    "price": "2.89"
+}{
+    "name": "Klementiini Clemenules",
+    "ean": 2000507500001,
+    "price": "1.79"
+}{
+    "name": "Sitruuna",
+    "ean": 2005023400002,
+    "price": "2.45"
+}{
+    "name": "Appelsiini Pussi",
+    "ean": 6414894500234,
+    "price": "1.49"
+}{
+    "name": "Lime",
+    "ean": 2000507900009,
+    "price": "2.79"
+}{
+    "name": "Appelsiini",
+    "ean": 2000502100008,
+    "price": "2.49"
+}{
+    "name": "Verigreippi",
+    "ean": 2000530800000,
+    "price": "2.85"
+}{
+    "name": "Mandariini Suntina Jaffa",
+    "ean": 2003304500007,
+    "price": "1.98"
+}{
+    "name": "Sitruuna luomu",
+    "ean": 2001776700000,
+    "price": "2.89"
+}{
+    "name": "Klementiini luomu",
+    "ean": 2006822800000,
+    "price": "2.39"
+}{
+    "name": "Veriappelsiini Tarocco",
+    "ean": 6414894500098,
+    "price": "2.45"
+}{
+    "name": "Appelsiini luomu",
+    "ean": 2008289300000,
+    "price": "1.89"
+}{
+    "name": "Greippi White Marsh",
+    "ean": 2000507300007,
+    "price": "2.29"
+}{
+    "name": "Hunajapomelo",
+    "ean": 2000531100000,
+    "price": "1.85"
+}{
+    "name": "Sweetie",
+    "ean": 2000531400001,
+    "price": "2.19"
+}{
+    "name": "Pomelo Red",
+    "ean": 2000531200007,
+    "price": "2.79"
+}{
+    "name": "Omena Granny Smith",
+    "ean": 2000515000005,
+    "price": "1.98"
+}{
+    "name": "Punasipulipussi",
+    "ean": 6414894500104,
+    "price": "0.98"
+}{
+    "name": "Sipulipussi",
+    "ean": 6414894500029,
+    "price": "1.15"
+}{
+    "name": "Sipulipussi",
+    "ean": 6414894502306,
+    "price": "0.75"
+}{
+    "name": "Sipuli",
+    "ean": 2005166600000,
+    "price": "1.05"
+}{
+    "name": "Salottisipuli Pak",
+    "ean": 6415350005720,
+    "price": "1.09"
+}{
+    "name": "Punasipuli",
+    "ean": 2005167200001,
+    "price": "1.49"
+}{
+    "name": "Makeasipuli",
+    "ean": 6414894500203,
+    "price": "1.79"
+}{
+    "name": "Kevätsipuli Nippu",
+    "ean": 6415350005676,
+    "price": "2.45"
+}{
+    "name": "Banaanisalottisipuli",
+    "ean": 6415350013008,
+    "price": "1.59"
+}{
+    "name": "Hopeasipuli",
+    "ean": 6414894500197,
+    "price": "1.85"
+}{
+    "name": "Luomupunasipulipussi",
+    "ean": 8712924000531,
+    "price": "0.95"
+}{
+    "name": "Luomusipuli",
+    "ean": 8712924002566,
+    "price": "1.39"
+}{
+    "name": "Luomuomena Gala",
+    "ean": 2000519800007,
+    "price": "2.98"
+}{
+    "name": "Omena Suomi",
+    "ean": 2000515400003,
+    "price": "1.98"
+}{
+    "name": "Omena Ida Red",
+    "ean": 2000532000002,
+    "price": "0.85"
+}{
+    "name": "Omena Royal Gala",
+    "ean": 2000515100002,
+    "price": "2.19"
+}{
+    "name": "Omena Honey Crunch",
+    "ean": 2000515600007,
+    "price": "2.69"
+}{
+    "name": "Omena Jonagold",
+    "ean": 2000516200008,
+    "price": "1.19"
+}{
+    "name": "Omena Juliet Luomu",
+    "ean": 2000563000002,
+    "price": "3.39"
+}{
+    "name": "Rypälerasia Vihreä",
+    "ean": 6414894500609,
+    "price": "2.49"
+}{
+    "name": "Rypälerasia Tumma Stön",
+    "ean": 6414894500401,
+    "price": "2.49"
+}{
+    "name": "Rypälerasia Vihreä Luomu",
+    "ean": 8713037004065,
+    "price": "3.79"
+}{
+    "name": "Rypälemix",
+    "ean": 6414894500418,
+    "price": "3.98"
+}{
+    "name": "Paprika Punainen Irto",
+    "ean": 2000607700004,
+    "price": "3.98"
+}{
+    "name": "Makea Suippopaprika",
+    "ean": 6418945008113,
+    "price": "1.98"
+}{
+    "name": "Suippopaprika Mix",
+    "ean": 8412276948795,
+    "price": "1.79"
+}{
+    "name": "Paprika Mix",
+    "ean": 6414894500623,
+    "price": "2.19"
+}{
+    "name": "Paprika Keltainen Irto",
+    "ean": 2000607800001,
+    "price": "4.95"
+}{
+    "name": "Chili Punainen 5 Medium",
+    "ean": 2000600200006,
+    "price": "8.79"
+}{
+    "name": "Chili Pun. Pak 5 Medium",
+    "ean": 6414890522308,
+    "price": "0.98"
+}{
+    "name": "Makea Paprikamix",
+    "ean": 6414890123451,
+    "price": "2.19"
+}{
+    "name": "Paprika Vihreä Pakattu",
+    "ean": 2000608500009,
+    "price": "3.98"
+}{
+    "name": "Paprika Oranssi Pak",
+    "ean": 2000628000008,
+    "price": "5.89"
+}{
+    "name": "Luomu Paprikamix",
+    "ean": 8713037000685,
+    "price": "2.49"
+}{
+    "name": "Chili Pun,Vihr,Kel 3 Kpl",
+    "ean": 7330583004700,
+    "price": "1.89"
+}{
+    "name": "Ramiropaprika Luomu",
+    "ean": 8713037004256,
+    "price": "1.95"
+}{
+    "name": "Jalapeno Vihreä 5 Medium",
+    "ean": 2000609000003,
+    "price": "8.79"
+}{
+    "name": "Habanero Mix 10 Tosivahva",
+    "ean": 8714531909962,
+    "price": "2.15"
+}{
+    "name": "Rawit-Chili 6 Vahva",
+    "ean": 8710317001554,
+    "price": "2.15"
+}{
+    "name": "Chili Mix Vahvuus 3-10",
+    "ean": 8714521950608,
+    "price": "2.75"
+}{
+    "name": "Chili Punainen Luomu",
+    "ean": 8713037004270,
+    "price": "2.29"
+}{
+    "name": "Grillipaprika Padron",
+    "ean": 8427148440017,
+    "price": "1.45"
+}{
+    "name": "Rypälerasia Tumma Stön",
+    "ean": 6414894500401,
+    "price": "2.49"
+}{
+    "name": "Lime",
+    "ean": 2000507900009,
+    "price": "2.79"
+}{
+    "name": "Mandarin Nadorcott Bruno",
+    "ean": 2000528200003,
+    "price": "2.89"
+}{
+    "name": "Klementiini luomu",
+    "ean": 2006822800000,
+    "price": "2.39"
+}{
+    "name": "Klementiini Clemenules",
+    "ean": 2000507500001,
+    "price": "1.79"
+}{
+    "name": "Mandariini Suntina Jaffa",
+    "ean": 2003304500007,
+    "price": "1.98"
+}{
+    "name": "Rotukarjan Jauheliha 10%",
+    "ean": 2003100300009,
+    "price": "14.90"
+}{
+    "name": "Nauta-Sika  Jauheliha",
+    "ean": 2003100500003,
+    "price": "9.90"
+}{
+    "name": "Rotukarja Paistijauheliha",
+    "ean": 2004217100001,
+    "price": "16.90"
+}{
+    "name": "Hirven Jauheliha",
+    "ean": 2005872100009,
+    "price": "19.90"
+}{
+    "name": "Herkkusieni",
+    "ean": 6416250006718,
+    "price": "2.59"
+}{
+    "name": "Herkkusieni Jumbo",
+    "ean": 2000601100008,
+    "price": "6.35"
+}{
+    "name": "Metsäsienisekoitus Suolat",
+    "ean": 6427401206000,
+    "price": "7.75"
+}{
+    "name": "Suolasienisekoitus",
+    "ean": 6410270002408,
+    "price": "8.59"
+}{
+    "name": "Luomuherkkusieni",
+    "ean": 4771085203537,
+    "price": "2.19"
+}{
+    "name": "Herkkusieni Irto",
+    "ean": 2000601500006,
+    "price": "5.25"
+}{
+    "name": "Portobello",
+    "ean": 6416250008118,
+    "price": "3.95"
+}{
+    "name": "Herkkusieni Ruskea",
+    "ean": 6416250006862,
+    "price": "2.95"
+}{
+    "name": "Herkkusienirasia",
+    "ean": 6414894500012,
+    "price": "1.49"
+}{
+    "name": "Luomu Siitake",
+    "ean": 6416250006787,
+    "price": "2.89"
+}{
+    "name": "Herkkutatti",
+    "ean": 6427401201005,
+    "price": "10.80"
+}{
+    "name": "Luomuherkkusieni",
+    "ean": 4771085203131,
+    "price": "2.19"
+}{
+    "name": "Haaparousku Suolattu",
+    "ean": 6417486608103,
+    "price": "7.59"
+}{
+    "name": "Herkkusieni Jumbo",
+    "ean": 6416250006794,
+    "price": "4.15"
+}{
+    "name": "Kuningasosterivinokas Bio",
+    "ean": 4771085203438,
+    "price": "3.49"
+}{
+    "name": "Kantarelli Suolattu",
+    "ean": 6427401202002,
+    "price": "8.69"
+}{
+    "name": "Hirven Jauheliha",
+    "ean": 2005872100009,
+    "price": "19.90"
+}{
+    "name": "Purjo Irto",
+    "ean": 2000611500003,
+    "price": "3.55"
+}{
+    "name": "Mansikkarasia",
+    "ean": 8718226440068,
+    "price": "2.95"
+}{
+    "name": "Puolukkasose Sokeroimaton",
+    "ean": 6410270002187,
+    "price": "6.25"
+}{
+    "name": "Karhunvadelma Rasia",
+    "ean": 8718226440082,
+    "price": "3.95"
+}{
+    "name": "Pensasmustikka Rasia",
+    "ean": 8718226440020,
+    "price": "2.35"
+}{
+    "name": "Vadelma Rasia",
+    "ean": 8718226440051,
+    "price": "2.95"
+}{
+    "name": "Porkkanapussi",
+    "ean": 6414894501231,
+    "price": "0.85"
+}{
+    "name": "Porkkanapussi Luomu",
+    "ean": 6415350000718,
+    "price": "1.09"
+}{
+    "name": "Porkkanapussi",
+    "ean": 6414894502351,
+    "price": "0.98"
+}{
+    "name": "Inkivääri Tuore",
+    "ean": 2000601000001,
+    "price": "4.79"
+}{
+    "name": "Baby Porkkana",
+    "ean": 6414894500005,
+    "price": "0.98"
+}{
+    "name": "Porkkanapussi",
+    "ean": 6414894502238,
+    "price": "0.69"
+}{
+    "name": "Bataatti Irto",
+    "ean": 2000626100007,
+    "price": "2.49"
+}{
+    "name": "Palsternakka Pakattu",
+    "ean": 6414894502290,
+    "price": "0.79"
+}{
+    "name": "Palsternakka Irto",
+    "ean": 2000607000005,
+    "price": "1.89"
+}{
+    "name": "Punajuuripussi",
+    "ean": 6414894502221,
+    "price": "0.95"
+}{
+    "name": "Lanttu Pakattu",
+    "ean": 6414894502269,
+    "price": "0.85"
+}{
+    "name": "Lanttu Irto",
+    "ean": 2000605200001,
+    "price": "0.95"
+}{
+    "name": "Punajuuri",
+    "ean": 2000610900002,
+    "price": "0.95"
+}{
+    "name": "Keittojuures",
+    "ean": 6414894500654,
+    "price": "1.89"
+}{
+    "name": "Bataattipussi Luomu",
+    "ean": 8713037005079,
+    "price": "2.59"
+}{
+    "name": "Selleri Pakattu",
+    "ean": 6414894502276,
+    "price": "0.98"
+}{
+    "name": "Luomuporkkanapussi",
+    "ean": 6415350001371,
+    "price": "1.95"
+}{
+    "name": "Inkivääri Luomu",
+    "ean": 8713037000043,
+    "price": "0.89"
+}{
+    "name": "Tuorekset 200g Thai wok",
+    "ean": 6405412190013,
+    "price": "1.95"
+}{
+    "name": "Selleri Irto",
+    "ean": 2000616000003,
+    "price": "2.29"
+}{
+    "name": "Multaporkkana",
+    "ean": 2000618700000,
+    "price": "1.09"
+}{
+    "name": "Punajuuri Esikeitetty",
+    "ean": 8420695001014,
+    "price": "1.25"
+}{
+    "name": "Maa-Artisokka",
+    "ean": 6415350008264,
+    "price": "3.29"
+}{
+    "name": "Mustajuuri",
+    "ean": 8710317002902,
+    "price": "2.59"
+}{
+    "name": "Porkkana Pesty",
+    "ean": 2000567200002,
+    "price": "1.09"
+}{
+    "name": "Tuorekset 200g Aasia wok",
+    "ean": 6405412190006,
+    "price": "1.95"
+}{
+    "name": "Juureskuutio",
+    "ean": 6414894500661,
+    "price": "1.89"
+}{
+    "name": "Retiisipussi",
+    "ean": 8717755790637,
+    "price": "0.59"
+}{
+    "name": "Uunijuures Sekoituspussi",
+    "ean": 6430046663329,
+    "price": "2.65"
+}{
+    "name": "Piparjuuri Pakattu",
+    "ean": 6414894502283,
+    "price": "2.55"
+}{
+    "name": "Tuorekset 350g Perhewok",
+    "ean": 6405412190044,
+    "price": "2.69"
+}{
+    "name": "Uunijuurekset",
+    "ean": 6414894501026,
+    "price": "2.59"
+}{
+    "name": "Retikka Pakattu",
+    "ean": 6414890091699,
+    "price": "1.24"
+}{
+    "name": "Maustepunajuuri",
+    "ean": 2000611200002,
+    "price": "2.35"
+}{
+    "name": "Keltajuuri",
+    "ean": 6415350016764,
+    "price": "1.39"
+}{
+    "name": "Luomu punajuuri esikeitet",
+    "ean": 8420695001045,
+    "price": "1.59"
+}{
+    "name": "Valkokaalisuikaleet",
+    "ean": 6416054154011,
+    "price": "1.39"
+}{
+    "name": "Kurkuma  I",
+    "ean": 8718366835663,
+    "price": "1.15"
+}{
+    "name": "Juuripersilja",
+    "ean": 6415350013190,
+    "price": "1.69"
+}{
+    "name": "Latva-Artisokka",
+    "ean": 2000605300008,
+    "price": "6.98"
+}{
+    "name": "Naposteluporkkana",
+    "ean": 5700384586392,
+    "price": "1.35"
+}{
+    "name": "Kaali-Porkkana-Purjomix",
+    "ean": 6416054154004,
+    "price": "1.59"
+}{
+    "name": "Nauris Irto",
+    "ean": 2000606600008,
+    "price": "1.89"
+}{
+    "name": "Tuorekset 200g Sienest...",
+    "ean": 6405412190419,
+    "price": "2.69"
+}{
+    "name": "Bataatti Värilajitelma",
+    "ean": 8718366835649,
+    "price": "3.39"
+}{
+    "name": "Väriporkkana  pussi",
+    "ean": 6430035370498,
+    "price": "1.45"
+}{
+    "name": "Naurispussi",
+    "ean": 6415350000725,
+    "price": "2.25"
+}{
+    "name": "Kurkku Suomi",
+    "ean": 2000604700007,
+    "price": "2.53"
+}{
+    "name": "Kurkku",
+    "ean": 2000598800004,
+    "price": "1.89"
+}{
+    "name": "Maustekurkkuja",
+    "ean": 2000632100008,
+    "price": "3.25"
+}{
+    "name": "Käyrä Kurkku",
+    "ean": 2000037800008,
+    "price": "2.39"
+}{
+    "name": "Myrttisen suolakurkku ...",
+    "ean": 6430025256900,
+    "price": "2.35"
+}{
+    "name": "Luomukurkku Snack",
+    "ean": 6415350013527,
+    "price": "12.33"
+}{
+    "name": "Valkosipulisuolakurkku",
+    "ean": 2000604300009,
+    "price": "6.89"
+}{
+    "name": "Maustekurkku Kotim.",
+    "ean": 2000631900005,
+    "price": "3.25"
+}{
+    "name": "Myrttisen 2kpl 180g ma...",
+    "ean": 6430025256955,
+    "price": "2.15"
+}{
+    "name": "Venäläinen Suolakurkku",
+    "ean": 6410270002323,
+    "price": "4.59"
+}{
+    "name": "Myrttisen suolakurkku ...",
+    "ean": 6430025256924,
+    "price": "4.95"
+}{
+    "name": "Avomaankurkku kasvihuone",
+    "ean": 2005890400006,
+    "price": "4.98"
+}{
+    "name": "Appelsiini Navel",
+    "ean": 2000501400000,
+    "price": "0.89"
+}{
+    "name": "Banaani",
+    "ean": 2000503600002,
+    "price": "1.29"
+}{
+    "name": "Mandarin Nadorcott Bruno",
+    "ean": 2000528200003,
+    "price": "2.89"
+}{
+    "name": "Klementiini Clemenules",
+    "ean": 2000507500001,
+    "price": "1.79"
+}{
+    "name": "Sitruuna",
+    "ean": 2005023400002,
+    "price": "2.45"
+}{
+    "name": "Päärynä Conference",
+    "ean": 2000522100002,
+    "price": "1.95"
+}{
+    "name": "Banaani Luomu",
+    "ean": 2000503700009,
+    "price": "1.79"
+}{
+    "name": "Avokadopussi",
+    "ean": 7340011432371,
+    "price": "2.79"
+}{
+    "name": "Avokado Hass Esikypsytt.",
+    "ean": 2000503400008,
+    "price": "5.98"
+}{
+    "name": "Omena Red Delicious",
+    "ean": 2000518600004,
+    "price": "1.89"
+}{
+    "name": "Rypälerasia Vihreä",
+    "ean": 6414894500609,
+    "price": "2.49"
+}{
+    "name": "Luomuomena Gala",
+    "ean": 2000519800007,
+    "price": "2.98"
+}{
+    "name": "Omena Suomi",
+    "ean": 2000515400003,
+    "price": "1.98"
+}{
+    "name": "Rypälerasia Tumma Stön",
+    "ean": 6414894500401,
+    "price": "2.49"
+}{
+    "name": "Persimon",
+    "ean": 2003305600003,
+    "price": "2.39"
+}{
+    "name": "Omena Ida Red",
+    "ean": 2000532000002,
+    "price": "0.85"
+}{
+    "name": "Kiivi Hayward",
+    "ean": 2000506600009,
+    "price": "2.69"
+}{
+    "name": "Omena Golden",
+    "ean": 2000514300007,
+    "price": "1.95"
+}{
+    "name": "Appelsiini Pussi",
+    "ean": 6414894500234,
+    "price": "1.49"
+}{
+    "name": "Lime",
+    "ean": 2000507900009,
+    "price": "2.79"
+}{
+    "name": "Appelsiini",
+    "ean": 2000502100008,
+    "price": "2.49"
+}{
+    "name": "Omena Royal Gala",
+    "ean": 2000515100002,
+    "price": "2.19"
+}{
+    "name": "Omena Granny Smith",
+    "ean": 2000515000005,
+    "price": "1.98"
+}{
+    "name": "Kiivirasia",
+    "ean": 7340011428497,
+    "price": "1.29"
+}{
+    "name": "Omena Honey Crunch",
+    "ean": 2000515600007,
+    "price": "2.69"
+}{
+    "name": "Verigreippi",
+    "ean": 2000530800000,
+    "price": "2.85"
+}{
+    "name": "Mandariini Suntina Jaffa",
+    "ean": 2003304500007,
+    "price": "1.98"
+}{
+    "name": "Vesimeloni Red",
+    "ean": 2000508300006,
+    "price": "1.49"
+}{
+    "name": "Omena Jonagold",
+    "ean": 2000516200008,
+    "price": "1.19"
+}{
+    "name": "Päärynä Abate Fetel",
+    "ean": 2000522000005,
+    "price": "3.15"
+}{
+    "name": "Granaattiomena",
+    "ean": 2000504500004,
+    "price": "5.29"
+}{
+    "name": "Sitruuna luomu",
+    "ean": 2001776700000,
+    "price": "2.89"
+}{
+    "name": "Klementiini luomu",
+    "ean": 2006822800000,
+    "price": "2.39"
+}{
+    "name": "Hunajameloni Kelt",
+    "ean": 2000508200009,
+    "price": "1.79"
+}{
+    "name": "Veriappelsiini Tarocco",
+    "ean": 6414894500098,
+    "price": "2.45"
+}{
+    "name": "Päärynärasia",
+    "ean": 6414890440176,
+    "price": "1.65"
+}{
+    "name": "Ananas Makea",
+    "ean": 2000520500002,
+    "price": "1.98"
+}{
+    "name": "Mango",
+    "ean": 2000512200002,
+    "price": "3.29"
+}{
+    "name": "Appelsiini luomu",
+    "ean": 2008289300000,
+    "price": "1.89"
+}{
+    "name": "Omena Juliet Luomu",
+    "ean": 2000563000002,
+    "price": "3.39"
+}{
+    "name": "Luumurasia Tumma",
+    "ean": 6009655300101,
+    "price": "2.49"
+}{
+    "name": "Greippi White Marsh",
+    "ean": 2000507300007,
+    "price": "2.29"
+}{
+    "name": "Cantaloupemeloni",
+    "ean": 2000598200002,
+    "price": "2.69"
+}{
+    "name": "Päärynä Sweet Sensation",
+    "ean": 2000523300005,
+    "price": "3.49"
+}{
+    "name": "Kiivirasia Luomu",
+    "ean": 8713037001071,
+    "price": "1.19"
+}{
+    "name": "Viikuna",
+    "ean": 2000513300008,
+    "price": "14.90"
+}{
+    "name": "Cantaloupe-Meloni Pala",
+    "ean": 2000502900004,
+    "price": "2.89"
+}{
+    "name": "Luomupäärynä Conference",
+    "ean": 2000523200008,
+    "price": "4.15"
+}{
+    "name": "Kurkku Suomi",
+    "ean": 2000604700007,
+    "price": "2.53"
+}{
+    "name": "Kurkku",
+    "ean": 2000598800004,
+    "price": "1.89"
+}{
+    "name": "Paprika Punainen Irto",
+    "ean": 2000607700004,
+    "price": "3.98"
+}{
+    "name": "Kirsikkatomaattirasia",
+    "ean": 6414894501279,
+    "price": "1.15"
+}{
+    "name": "Jäävuorisalaatti Pakattu",
+    "ean": 2000606800002,
+    "price": "2.98"
+}{
+    "name": "Parsakaali Pakattu",
+    "ean": 8710147570831,
+    "price": "0.89"
+}{
+    "name": "Tomaatti Suomi",
+    "ean": 2000614400003,
+    "price": "2.49"
+}{
+    "name": "Miniluumutomaatti Rasia",
+    "ean": 6414894500210,
+    "price": "1.19"
+}{
+    "name": "Punasipulipussi",
+    "ean": 6414894500104,
+    "price": "0.98"
+}{
+    "name": "Jääsalaatti Pak.",
+    "ean": 6414894500135,
+    "price": "1.39"
+}{
+    "name": "Sipulipussi",
+    "ean": 6414894500029,
+    "price": "1.15"
+}{
+    "name": "Järvikylä min100g Jääs...",
+    "ean": 6416046670000,
+    "price": "1.55"
+}{
+    "name": "Kukkakaali Pakattu",
+    "ean": 2000604100005,
+    "price": "3.15"
+}{
+    "name": "Kesäkurpitsa Vihreä",
+    "ean": 2000602800006,
+    "price": "5.15"
+}{
+    "name": "Tomaatti",
+    "ean": 2000614100002,
+    "price": "1.98"
+}{
+    "name": "Purjo Irto",
+    "ean": 2000611500003,
+    "price": "3.55"
+}{
+    "name": "Makea Suippopaprika",
+    "ean": 6418945008113,
+    "price": "1.98"
+}{
+    "name": "Sipulipussi",
+    "ean": 6414894502306,
+    "price": "0.75"
+}{
+    "name": "Valkosipuli",
+    "ean": 2000615200008,
+    "price": "7.29"
+}{
+    "name": "Sipuli",
+    "ean": 2005166600000,
+    "price": "1.05"
+}{
+    "name": "Baby-Pinaatti",
+    "ean": 6414890111663,
+    "price": "1.49"
+}{
+    "name": "Pikkukeräkaali 1,0Kg",
+    "ean": 6414894502375,
+    "price": "1.79"
+}{
+    "name": "Varsiselleri",
+    "ean": 6414894500074,
+    "price": "1.75"
+}{
+    "name": "Valkosipuli",
+    "ean": 6414894501255,
+    "price": "0.79"
+}{
+    "name": "Luumutomaattirasia",
+    "ean": 6414894500258,
+    "price": "1.39"
+}{
+    "name": "Napolitana Mix",
+    "ean": 6414890102043,
+    "price": "1.45"
+}{
+    "name": "Lehtikaali",
+    "ean": 8714978023238,
+    "price": "2.79"
+}{
+    "name": "Suippopaprika Mix",
+    "ean": 8412276948795,
+    "price": "1.79"
+}{
+    "name": "Paprika Mix",
+    "ean": 6414894500623,
+    "price": "2.19"
+}{
+    "name": "Miniluumutomaattipikari",
+    "ean": 8710147599955,
+    "price": "2.75"
+}{
+    "name": "Kiinankaali Pakattu",
+    "ean": 2000607300006,
+    "price": "2.89"
+}{
+    "name": "Maustekurkkuja",
+    "ean": 2000632100008,
+    "price": "3.25"
+}{
+    "name": "Paprika Keltainen Irto",
+    "ean": 2000607800001,
+    "price": "4.95"
+}{
+    "name": "Munakoiso Pakattu",
+    "ean": 2003305400009,
+    "price": "5.49"
+}{
+    "name": "Rucola-Salaatti",
+    "ean": 5700381078067,
+    "price": "1.39"
+}{
+    "name": "Minitomaatti Trimix",
+    "ean": 6414894501262,
+    "price": "2.49"
+}{
+    "name": "Chili Pun. Pak 5 Medium",
+    "ean": 6414890522308,
+    "price": "0.98"
+}{
+    "name": "Salottisipuli Pak",
+    "ean": 6415350005720,
+    "price": "1.09"
+}{
+    "name": "Chili Punainen 5 Medium",
+    "ean": 2000600200006,
+    "price": "8.79"
+}{
+    "name": "Ruukkusalaatti",
+    "ean": 6414894500111,
+    "price": "0.87"
+}{
+    "name": "Ruusukaali Rasia",
+    "ean": 6414890123444,
+    "price": "2.15"
+}{
+    "name": "Luomuparsakaali Pak",
+    "ean": 6414890113711,
+    "price": "2.85"
+}{
+    "name": "Ruukkujääsalaatti",
+    "ean": 6414894500128,
+    "price": "0.87"
+}{
+    "name": "Punasipuli",
+    "ean": 2005167200001,
+    "price": "1.49"
+}{
+    "name": "Makea Paprikamix",
+    "ean": 6414890123451,
+    "price": "2.19"
+}{
+    "name": "Kaalipala Pakattu",
+    "ean": 2000572100007,
+    "price": "1.79"
+}{
+    "name": "Luomuvalkosipuli",
+    "ean": 8412187000711,
+    "price": "1.09"
+}{
+    "name": "Keräkaali",
+    "ean": 2000615600006,
+    "price": "0.49"
+}{
+    "name": "Tomaatti",
+    "ean": 2000614100002,
+    "price": "1.98"
+}{
+    "name": "Kirsikkatomaattirasia",
+    "ean": 6414894501279,
+    "price": "1.15"
+}{
+    "name": "Luumutomaattirasia",
+    "ean": 6414894500258,
+    "price": "1.39"
+}{
+    "name": "Tomaatti Suomi",
+    "ean": 2000614400003,
+    "price": "2.49"
+}{
+    "name": "Miniluumutomaatti Rasia",
+    "ean": 6414894500210,
+    "price": "1.19"
+}{
+    "name": "Miniluumutomaattipikari",
+    "ean": 8710147599955,
+    "price": "2.75"
+}{
+    "name": "Minitomaatti Trimix",
+    "ean": 6414894501262,
+    "price": "2.49"
+}{
+    "name": "Luomutomaatti",
+    "ean": 2000614500000,
+    "price": "6.79"
+}{
+    "name": "Luomutomaattirasia",
+    "ean": 6415350010342,
+    "price": "3.95"
+}{
+    "name": "Kirsikkatomaattirasia",
+    "ean": 6415350000305,
+    "price": "2.95"
+}{
+    "name": "Miniluumutomaattipurkki",
+    "ean": 8710147606561,
+    "price": "5.35"
+}{
+    "name": "Luomukirsikkatomaatti Ras",
+    "ean": 6415350002156,
+    "price": "4.89"
+}{
+    "name": "Terttukirsikkatomaatti",
+    "ean": 6414894500302,
+    "price": "2.39"
+}{
+    "name": "Luumutomaattirasia Luomu",
+    "ean": 6415350011356,
+    "price": "4.29"
+}{
+    "name": "Mini Luumutom.rasia Luomu",
+    "ean": 6415350013602,
+    "price": "4.95"
+}{
+    "name": "Terttutomaattirasia",
+    "ean": 6430064550007,
+    "price": "3.69"
+}{
+    "name": "Kirsikkatomaattirasia",
+    "ean": 6414893388024,
+    "price": "2.95"
+}{
+    "name": "Toisenlainen Tomaatti Ii",
+    "ean": 2003304300003,
+    "price": "1.98"
+}{
+    "name": "Minitomaattipikarimix",
+    "ean": 8710147606547,
+    "price": "2.85"
+}{
+    "name": "Erikoistomaattirasia",
+    "ean": 6416075931332,
+    "price": "3.49"
+}{
+    "name": "Helmitomaattipikari",
+    "ean": 6416075931073,
+    "price": "3.89"
+}{
+    "name": "Tomaattipussi",
+    "ean": 6430050454029,
+    "price": "2.79"
+}{
+    "name": "Broilerin Rintaleike",
+    "ean": 2001139600008,
+    "price": "10.50"
+}{
+    "name": "Nauta-Sika  Jauheliha",
+    "ean": 2003100500003,
+    "price": "9.90"
+}{
+    "name": "Rasvaton Palvikinkku Kok.",
+    "ean": 2003705100004,
+    "price": "23.50"
+}{
+    "name": "Luomu Pehtoorinnakki",
+    "ean": 2004120900002,
+    "price": "16.90"
+}{
+    "name": "Takuumurea Naudan Sisäfil",
+    "ean": 2001304400006,
+    "price": "45.95"
+}{
+    "name": "Porsaan Luuton Kylki",
+    "ean": 2003103400003,
+    "price": "9.50"
+}{
+    "name": "Rotukarja Paistijauheliha",
+    "ean": 2004217100001,
+    "price": "16.90"
+}{
+    "name": "Luomuaamiaispekoni",
+    "ean": 2003674700007,
+    "price": "19.90"
+}{
+    "name": "Rotukarjan Sisäfilepihvi",
+    "ean": 2003102200000,
+    "price": "56.90"
+}{
+    "name": "Rotukarjan Jauheliha 10%",
+    "ean": 2003100300009,
+    "price": "14.90"
+}{
+    "name": "Hirven Jauheliha",
+    "ean": 2005872100009,
+    "price": "19.90"
+}{
+    "name": "Rotukarjan Kulmapaisti",
+    "ean": 2003102600008,
+    "price": "15.90"
+}{
+    "name": "Rotukarjan Osso Bucco",
+    "ean": 2003102800002,
+    "price": "12.90"
+}{
+    "name": "Karitsan Paisti",
+    "ean": 2001273200003,
+    "price": "23.90"
+}{
+    "name": "Hirven Lapa Luuton",
+    "ean": 2001258900003,
+    "price": "39.50"
+}{
+    "name": "Naudan Sisäpaisti",
+    "ean": 2000447900008,
+    "price": "17.90"
+}{
+    "name": "Rotukarjan Sisäpaisti",
+    "ean": 2003102400004,
+    "price": "24.90"
+}{
+    "name": "Kassler",
+    "ean": 2004347700003,
+    "price": "7.50"
+}{
+    "name": "Rotukarjan Entrecote",
+    "ean": 2003102900009,
+    "price": "29.90"
+}{
+    "name": "Tamm n3,5kg porsaan lu...",
+    "ean": 2354802100009,
+    "price": "6.84"
+}{
+    "name": "Palvattu Kalkkunafile Kok",
+    "ean": 2004111300002,
+    "price": "21.90"
+}{
+    "name": "Karitsan Paahtopaisti",
+    "ean": 2001541800003,
+    "price": "27.90"
+}{
+    "name": "Metsästäjänmakkara",
+    "ean": 2003675200001,
+    "price": "14.50"
+}{
+    "name": "Juhlalauantai Pala",
+    "ean": 2003675400005,
+    "price": "14.95"
+}{
+    "name": "Naudan Paistikuutio",
+    "ean": 2006144100000,
+    "price": "10.90"
+}{
+    "name": "Karitsan Sisäfile",
+    "ean": 2001541500002,
+    "price": "39.90"
+}{
+    "name": "Naudan Sisäfileepihvi",
+    "ean": 2006205000003,
+    "price": "43.50"
+}{
+    "name": "Porsaan Kasslerleike Mar.",
+    "ean": 2007119100001,
+    "price": "9.90"
+}{
+    "name": "Porsaan Sisäfilee",
+    "ean": 2001443700005,
+    "price": "13.90"
+}{
+    "name": "Porsaan Kuutio 20X20 Mm",
+    "ean": 2006841200003,
+    "price": "10.90"
+}{
+    "name": "Luomu Saunalenkki",
+    "ean": 2004009700006,
+    "price": "13.50"
+}{
+    "name": "Luomu Karitsan Paahtopais",
+    "ean": 2005737400008,
+    "price": "30.50"
+}{
+    "name": "Naudan Suolaliha Kok.",
+    "ean": 2003705900000,
+    "price": "27.90"
+}{
+    "name": "Lampaan Ulkofilee",
+    "ean": 2001540900001,
+    "price": "29.90"
+}{
+    "name": "Naudan Ulkofileepihvi",
+    "ean": 2001782800008,
+    "price": "32.90"
+}{
+    "name": "Porsaan Ulkofilee Extra",
+    "ean": 2004189500007,
+    "price": "9.90"
+}{
+    "name": "Poron Lapakäristys",
+    "ean": 2001483400002,
+    "price": "43.50"
+}{
+    "name": "Karitsan Ulkofile",
+    "ean": 2001541600009,
+    "price": "38.90"
+}{
+    "name": "Karitsan Kare",
+    "ean": 2004359500004,
+    "price": "38.90"
+}{
+    "name": "Naudan Ulkofilee Kalvoton",
+    "ean": 2006503700001,
+    "price": "32.90"
+}{
+    "name": "Rotukarjan Rinta",
+    "ean": 2003103700004,
+    "price": "15.90"
+}{
+    "name": "Luomufile",
+    "ean": 2003671100008,
+    "price": "25.50"
+}{
+    "name": "Broilerin Filee Leivitett",
+    "ean": 2004203100008,
+    "price": "17.90"
+}{
+    "name": "Porsaan Parilakyljys",
+    "ean": 2000170400004,
+    "price": "11.90"
+}{
+    "name": "Karitsan Parifileekyljys",
+    "ean": 2009060400001,
+    "price": "32.90"
+}{
+    "name": "Nmk Rintafilee Mton",
+    "ean": 2006968000005,
+    "price": "13.90"
+}{
+    "name": "Lampaan Sisäfile",
+    "ean": 2001540800004,
+    "price": "32.90"
+}{
+    "name": "Karitsan Lapapaisti",
+    "ean": 2008602800002,
+    "price": "21.90"
+}{
+    "name": "Porsaan Kasslerleike Mar.",
+    "ean": 2007119100001,
+    "price": "9.90"
+}{
+    "name": "Pors.ulkofilekääryle",
+    "ean": 2007083100007,
+    "price": "15.95"
+}{
+    "name": "Appelsiini Navel",
+    "ean": 2000501400000,
+    "price": "0.89"
+}{
+    "name": "Veriappelsiini Tarocco",
+    "ean": 6414894500098,
+    "price": "2.45"
+}{
+    "name": "Appelsiini luomu",
+    "ean": 2008289300000,
+    "price": "1.89"
+}{
+    "name": "Sitruuna",
+    "ean": 2005023400002,
+    "price": "2.45"
+}{
+    "name": "Appelsiini",
+    "ean": 2000502100008,
+    "price": "2.49"
+}{
+    "name": "Appelsiini Pussi",
+    "ean": 6414894500234,
+    "price": "1.49"
+}{
+    "name": "Sitruuna luomu",
+    "ean": 2001776700000,
+    "price": "2.89"
+}{
+    "name": "Porsaan Sisäfilee",
+    "ean": 2001443700005,
+    "price": "13.90"
+}{
+    "name": "Porsaan Ulkofilee Extra",
+    "ean": 2004189500007,
+    "price": "9.90"
+}{
+    "name": "Rotukarja Paistijauheliha",
+    "ean": 2004217100001,
+    "price": "16.90"
+}{
+    "name": "Rotukarjan Jauheliha 10%",
+    "ean": 2003100300009,
+    "price": "14.90"
+}{
+    "name": "Porsaan Luuton Kylki",
+    "ean": 2003103400003,
+    "price": "9.50"
+}{
+    "name": "Tamm n3,5kg porsaan lu...",
+    "ean": 2354802100009,
+    "price": "6.84"
+}{
+    "name": "Paahtokylki",
+    "ean": 2001441400006,
+    "price": "7.90"
+}{
+    "name": "Nauta-Sika  Jauheliha",
+    "ean": 2003100500003,
+    "price": "9.90"
+}{
+    "name": "Kukkakaali Pakattu",
+    "ean": 2000604100005,
+    "price": "3.15"
+}{
+    "name": "Kukkakaali Luomu",
+    "ean": 6414890113728,
+    "price": "3.85"
+}{
+    "name": "Jäävuorisalaatti Pakattu",
+    "ean": 2000606800002,
+    "price": "2.98"
+}{
+    "name": "Järvikylä min100g Jääs...",
+    "ean": 6416046670000,
+    "price": "1.55"
+}{
+    "name": "Jääsalaatti Pak.",
+    "ean": 6414894500135,
+    "price": "1.39"
+}{
+    "name": "Napolitana Mix",
+    "ean": 6414890102043,
+    "price": "1.45"
+}{
+    "name": "Baby-Pinaatti",
+    "ean": 6414890111663,
+    "price": "1.49"
+}{
+    "name": "Kiinankaali Pakattu",
+    "ean": 2000607300006,
+    "price": "2.89"
+}{
+    "name": "Rucola-Salaatti",
+    "ean": 5700381078067,
+    "price": "1.39"
+}{
+    "name": "Ruukkusalaatti",
+    "ean": 6414894500111,
+    "price": "0.87"
+}{
+    "name": "Ruukkujääsalaatti",
+    "ean": 6414894500128,
+    "price": "0.87"
+}{
+    "name": "Salaattimix Ruukussa",
+    "ean": 6414894500142,
+    "price": "1.55"
+}{
+    "name": "Salaattisekoitus",
+    "ean": 6415712904913,
+    "price": "2.75"
+}{
+    "name": "Lempi-Annossalaatti",
+    "ean": 6416250008170,
+    "price": "1.49"
+}{
+    "name": "Romana-Salaatti",
+    "ean": 8424134004000,
+    "price": "1.29"
+}{
+    "name": "Järvikylä min115g Roma...",
+    "ean": 6416046180004,
+    "price": "1.49"
+}{
+    "name": "Järvikylä min115g Kart...",
+    "ean": 6416046131006,
+    "price": "1.25"
+}{
+    "name": "Järvikylä min115g Peht...",
+    "ean": 6416046151004,
+    "price": "1.69"
+}{
+    "name": "Järvikylä min50g Villi...",
+    "ean": 6416046653317,
+    "price": "1.55"
+}{
+    "name": "Luomuruukkusalaatti",
+    "ean": 6415350004280,
+    "price": "1.49"
+}{
+    "name": "Salaatti-Pinaattisekoitus",
+    "ean": 6414893388437,
+    "price": "2.75"
+}{
+    "name": "Järvikylä min115g Jääs...",
+    "ean": 6416046170005,
+    "price": "0.95"
+}{
+    "name": "Caesar-Salaatti",
+    "ean": 6415712902902,
+    "price": "2.75"
+}{
+    "name": "Makea Frisee-Salaatti",
+    "ean": 6415350012605,
+    "price": "1.39"
+}{
+    "name": "Tammenlehtisalaattiruukku",
+    "ean": 6414894598767,
+    "price": "1.45"
+}{
+    "name": "Perhesalaatti",
+    "ean": 6415712905729,
+    "price": "2.45"
+}{
+    "name": "Järvikylä min115g Puna...",
+    "ean": 6416046191109,
+    "price": "1.99"
+}{
+    "name": "Järvikylä min115g Ruuk...",
+    "ean": 6416046651122,
+    "price": "1.10"
+}{
+    "name": "Jääsalaatti",
+    "ean": 6415352230021,
+    "price": "1.95"
+}{
+    "name": "Järvikylä min115g Fris...",
+    "ean": 6416046160006,
+    "price": "1.49"
+}{
+    "name": "Luomutammenlehtisalaatti",
+    "ean": 6415350004402,
+    "price": "1.69"
+}{
+    "name": "Keräsalaatti Pak",
+    "ean": 6414894500159,
+    "price": "1.45"
+}{
+    "name": "Luomuruukkujääsalaatti",
+    "ean": 6415350004297,
+    "price": "1.69"
+}{
+    "name": "Salaattisekoitus",
+    "ean": 6414893388420,
+    "price": "2.49"
+}{
+    "name": "Sulo Annossalaatti",
+    "ean": 6416250008187,
+    "price": "1.59"
+}{
+    "name": "Järvikylä min120g Ruus...",
+    "ean": 6416046192007,
+    "price": "1.98"
+}{
+    "name": "Baby Pinaatti",
+    "ean": 6405031040829,
+    "price": "2.59"
+}{
+    "name": "Friseesalaatti Makea",
+    "ean": 6415352230120,
+    "price": "1.95"
+}{
+    "name": "Lehtisalaatti",
+    "ean": 6430021740281,
+    "price": "2.85"
+}{
+    "name": "Jääsalaatti Luomu Pak",
+    "ean": 6415350015590,
+    "price": "1.89"
+}{
+    "name": "Jääsalaatti",
+    "ean": 6430021740267,
+    "price": "3.59"
+}{
+    "name": "Fresh 240g SalaattiHet...",
+    "ean": 6406510093800,
+    "price": "2.80"
+}{
+    "name": "Sikurisalaatti",
+    "ean": 8718366834079,
+    "price": "1.79"
+}{
+    "name": "Machesalaatti",
+    "ean": 5700383354237,
+    "price": "1.59"
+}{
+    "name": "Rucola Verso",
+    "ean": 6430053060043,
+    "price": "2.79"
+}{
+    "name": "Lollorosso Salaattipussi",
+    "ean": 6430021740311,
+    "price": "2.85"
+}{
+    "name": "Tammenlehtisalaattipussi",
+    "ean": 6430021740342,
+    "price": "2.85"
+}{
+    "name": "Pehmeä Frisee",
+    "ean": 6430021740489,
+    "price": "2.85"
+}{
+    "name": "Rotukarjan Sisäfilepihvi",
+    "ean": 2003102200000,
+    "price": "56.90"
+}{
+    "name": "Takuumurea Naudan Sisäfil",
+    "ean": 2001304400006,
+    "price": "45.95"
+}{
+    "name": "Rotukarjan Kulmapaisti",
+    "ean": 2003102600008,
+    "price": "15.90"
+}{
+    "name": "Rotukarjan Osso Bucco",
+    "ean": 2003102800002,
+    "price": "12.90"
+}{
+    "name": "Rotukarjan Sisäpaisti",
+    "ean": 2003102400004,
+    "price": "24.90"
+}{
+    "name": "Naudan Sisäpaisti",
+    "ean": 2000447900008,
+    "price": "17.90"
+}{
+    "name": "Rotukarjan Entrecote",
+    "ean": 2003102900009,
+    "price": "29.90"
+}{
+    "name": "Naudan Paistikuutio",
+    "ean": 2006144100000,
+    "price": "10.90"
+}{
+    "name": "Naudan Sisäfileepihvi",
+    "ean": 2006205000003,
+    "price": "43.50"
+}{
+    "name": "Porsaan Kuutio 20X20 Mm",
+    "ean": 2006841200003,
+    "price": "10.90"
+}{
+    "name": "Naudan Ulkofileepihvi",
+    "ean": 2001782800008,
+    "price": "32.90"
+}{
+    "name": "Naudan Ulkofilee Kalvoton",
+    "ean": 2006503700001,
+    "price": "32.90"
+}{
+    "name": "Rotukarjan Rinta",
+    "ean": 2003103700004,
+    "price": "15.90"
+}{
+    "name": "Luomu Naudan Ulkofile",
+    "ean": 2005729300002,
+    "price": "33.50"
+}{
+    "name": "Naudan Paahtopaisti",
+    "ean": 2009147000001,
+    "price": "17.90"
+}{
+    "name": "Rotukarjan Osso Bucco",
+    "ean": 2003102800002,
+    "price": "12.90"
+}{
+    "name": "Naudan Paistikuutio",
+    "ean": 2006144100000,
+    "price": "10.90"
+}{
+    "name": "Porsaan Kuutio 20X20 Mm",
+    "ean": 2006841200003,
+    "price": "10.90"
+}{
+    "name": "Rotukarjan Rinta",
+    "ean": 2003103700004,
+    "price": "15.90"
+}{
+    "name": "Karitsan Paisti",
+    "ean": 2001273200003,
+    "price": "23.90"
+}{
+    "name": "Luomu Karitsan Paahtopais",
+    "ean": 2005737400008,
+    "price": "30.50"
+}{
+    "name": "Lampaan Ulkofilee",
+    "ean": 2001540900001,
+    "price": "29.90"
+}{
+    "name": "Karitsan Paahtopaisti",
+    "ean": 2001541800003,
+    "price": "27.90"
+}{
+    "name": "Karitsan Ulkofile",
+    "ean": 2001541600009,
+    "price": "38.90"
+}{
+    "name": "Karitsan Sisäfile",
+    "ean": 2001541500002,
+    "price": "39.90"
+}{
+    "name": "Karitsan Parifileekyljys",
+    "ean": 2009060400001,
+    "price": "32.90"
+}{
+    "name": "Karitsan Kare",
+    "ean": 2004359500004,
+    "price": "38.90"
+}{
+    "name": "Lampaan Sisäfile",
+    "ean": 2001540800004,
+    "price": "32.90"
+}{
+    "name": "Karitsan Lapapaisti",
+    "ean": 2008602800002,
+    "price": "21.90"
+}{
+    "name": "Järvikylä min30g Basilika",
+    "ean": 6416046672127,
+    "price": "1.89"
+}{
+    "name": "Tillinippu suomi",
+    "ean": 6414894500272,
+    "price": "1.19"
+}{
+    "name": "Järvikylä min30g Koria...",
+    "ean": 6416046362004,
+    "price": "1.89"
+}{
+    "name": "Basilika Ruukussa",
+    "ean": 6414893388246,
+    "price": "1.39"
+}{
+    "name": "Korianteri Ruukussa",
+    "ean": 6414893388253,
+    "price": "1.45"
+}{
+    "name": "Persilja",
+    "ean": 6414894500289,
+    "price": "1.19"
+}{
+    "name": "Persilja Ruukussa",
+    "ean": 6414893388222,
+    "price": "1.09"
+}{
+    "name": "Tilli",
+    "ean": 6414894501309,
+    "price": "2.15"
+}{
+    "name": "Järvikylä min25g Timjami",
+    "ean": 6416046676125,
+    "price": "1.89"
+}{
+    "name": "Ruukkubasilika Luomu",
+    "ean": 6415350003283,
+    "price": "1.59"
+}{
+    "name": "Järvikylä min25g Lehti...",
+    "ean": 6416046378005,
+    "price": "1.89"
+}{
+    "name": "Järvikylä min50g Persilja",
+    "ean": 6416046652129,
+    "price": "1.55"
+}{
+    "name": "Järvikylä min30g Ruoho...",
+    "ean": 6416046653126,
+    "price": "1.55"
+}{
+    "name": "Ruukkutilli Luomu",
+    "ean": 6415350003269,
+    "price": "1.59"
+}{
+    "name": "Järvikylä min15g Rosma...",
+    "ean": 6416046367009,
+    "price": "4.79"
+}{
+    "name": "Timjami Ruukussa",
+    "ean": 6414893388260,
+    "price": "1.49"
+}{
+    "name": "Järvikylä min50g Tilli",
+    "ean": 6416046654123,
+    "price": "1.55"
+}{
+    "name": "Rosmariini Ruukussa",
+    "ean": 6414893388369,
+    "price": "3.98"
+}{
+    "name": "Lehtipersilja Ruukussa",
+    "ean": 6414893388352,
+    "price": "1.49"
+}{
+    "name": "Järvikylä min25g Minttu",
+    "ean": 6416046673124,
+    "price": "1.89"
+}{
+    "name": "Järvikylä min15g Salvia",
+    "ean": 6416046675128,
+    "price": "1.89"
+}{
+    "name": "Sitruunamelissa Ruukussa",
+    "ean": 6414893388338,
+    "price": "1.49"
+}{
+    "name": "Sitruunaruoho",
+    "ean": 7340083404672,
+    "price": "1.40"
+}{
+    "name": "Järvikylä min10g Viini...",
+    "ean": 6416046377008,
+    "price": "1.89"
+}{
+    "name": "Luomu Ruukkupersilja",
+    "ean": 6415350003252,
+    "price": "1.59"
+}{
+    "name": "Tilli Ruukussa",
+    "ean": 6414893388215,
+    "price": "1.09"
+}{
+    "name": "Oregano Ruukussa",
+    "ean": 6414893388314,
+    "price": "1.49"
+}{
+    "name": "Viinisuolaheinä Ruukussa",
+    "ean": 6414893388383,
+    "price": "1.49"
+}{
+    "name": "Ruohosipuliruukku Luomu",
+    "ean": 6415350003276,
+    "price": "1.59"
+}{
+    "name": "Rosmariini",
+    "ean": 6430021740021,
+    "price": "3.89"
+}{
+    "name": "Basilika",
+    "ean": 6430021740120,
+    "price": "1.99"
+}{
+    "name": "Herneenverso  Ruukussa",
+    "ean": 6414893388390,
+    "price": "1.49"
+}{
+    "name": "Korianteri",
+    "ean": 6430021740090,
+    "price": "2.59"
+}{
+    "name": "Järvikylä min15g Sitru...",
+    "ean": 6416046671120,
+    "price": "1.89"
+}{
+    "name": "Rosmariini Iso",
+    "ean": 6430047720427,
+    "price": "4.89"
+}{
+    "name": "Järvikylä min15g Oregano",
+    "ean": 6416046653331,
+    "price": "1.89"
+}{
+    "name": "Salvia Ruukussa",
+    "ean": 6414893388321,
+    "price": "1.49"
+}{
+    "name": "Kirveli Ruukussa",
+    "ean": 6414893388291,
+    "price": "1.49"
+}{
+    "name": "Ruohosipuli Ruukussa",
+    "ean": 6414893388239,
+    "price": "1.10"
+}{
+    "name": "Lehtipersilja",
+    "ean": 6430021740175,
+    "price": "2.59"
+}{
+    "name": "Vehnänoras  Ruukussa",
+    "ean": 6414893388406,
+    "price": "1.49"
+}{
+    "name": "Järvikylä min25g Vahva...",
+    "ean": 6416046379002,
+    "price": "3.85"
+}{
+    "name": "Rakuuna Ruukussa",
+    "ean": 6414893388284,
+    "price": "1.49"
+}{
+    "name": "Timjami",
+    "ean": 6430021740038,
+    "price": "2.99"
+}{
+    "name": "Iso Basilika",
+    "ean": 6430047720151,
+    "price": "2.89"
+}{
+    "name": "Minttu",
+    "ean": 6430021740052,
+    "price": "2.99"
+}{
+    "name": "Vahva Minttu Ruukussa",
+    "ean": 6414893388376,
+    "price": "2.98"
+}{
+    "name": "Meirami Ruukussa",
+    "ean": 6414893388277,
+    "price": "1.49"
+}{
+    "name": "Luuton Koipireisi Maust.",
+    "ean": 2006835800004,
+    "price": "9.90"
+}{
+    "name": "Br Paistileike Hun-Lime",
+    "ean": 2009359000004,
+    "price": "10.50"
+}{
+    "name": "Broilerin Filee Leivitett",
+    "ean": 2004203100008,
+    "price": "17.90"
+}{
+    "name": "Nmk Rintafilee Mton",
+    "ean": 2006968000005,
+    "price": "13.90"
+}{
+    "name": "Naudan Ulkofilee Kalvoton",
+    "ean": 2006503700001,
+    "price": "32.90"
+}{
+    "name": "Takuumurea Naudan Sisäfil",
+    "ean": 2001304400006,
+    "price": "45.95"
+}{
+    "name": "Karitsan Kare",
+    "ean": 2004359500004,
+    "price": "38.90"
+}{
+    "name": "Luomu Naudan Ulkofile",
+    "ean": 2005729300002,
+    "price": "33.50"
+}{
+    "name": "Karitsan Parifileekyljys",
+    "ean": 2009060400001,
+    "price": "32.90"
+}{
+    "name": "Nmk Koipireisi Savuchili",
+    "ean": 2001300200006,
+    "price": "3.98"
+}{
+    "name": "Porsaan Luuton Kylki",
+    "ean": 2003103400003,
+    "price": "9.50"
+}{
+    "name": "Kassler",
+    "ean": 2004347700003,
+    "price": "7.50"
+}{
+    "name": "Tamm n3,5kg porsaan lu...",
+    "ean": 2354802100009,
+    "price": "6.84"
+}{
+    "name": "Porsaan Sisäfilee",
+    "ean": 2001443700005,
+    "price": "13.90"
+}{
+    "name": "Porsaan Parilakyljys",
+    "ean": 2000170400004,
+    "price": "11.90"
+}{
+    "name": "Paahtokylki",
+    "ean": 2001441400006,
+    "price": "7.90"
+}{
+    "name": "Pors.ulkofilekääryle",
+    "ean": 2007083100007,
+    "price": "15.95"
+}{
+    "name": "Porsaan Ulkofilee Extra",
+    "ean": 2004189500007,
+    "price": "9.90"
+}{
+    "name": "Porsaan Sisäpaisti",
+    "ean": 2004347600006,
+    "price": "10.50"
+}{
+    "name": "Porsaan Kasslerleike Mar.",
+    "ean": 2007119100001,
+    "price": "9.90"
+}{
+    "name": "Yleisperuna",
+    "ean": 6414894501217,
+    "price": "1.09"
+}{
+    "name": "Peruna Jauhoinen",
+    "ean": 6414894501248,
+    "price": "1.09"
+}{
+    "name": "Yleisperuna Pesty",
+    "ean": 2005024300004,
+    "price": "0.69"
+}{
+    "name": "Luomuperunapussi",
+    "ean": 6415350003122,
+    "price": "2.98"
+}{
+    "name": "Peruna Kiinteä",
+    "ean": 6414894501224,
+    "price": "1.09"
+}{
+    "name": "Perunapussi",
+    "ean": 6414894500081,
+    "price": "2.98"
+}{
+    "name": "Uuniperuna Pesty",
+    "ean": 2000626600002,
+    "price": "0.98"
+}{
+    "name": "Lapin Puikulaperunapussi",
+    "ean": 6415350702537,
+    "price": "4.19"
+}{
+    "name": "Yleisperuna Excellency",
+    "ean": 6411040033301,
+    "price": "0.95"
+}{
+    "name": "Kiinteä Pesty Peruna",
+    "ean": 2005024700002,
+    "price": "0.69"
+}{
+    "name": "Jauhoinen Pesty Peruna",
+    "ean": 2005025100009,
+    "price": "0.69"
+}{
+    "name": "Yleisperuna Harjattu",
+    "ean": 2005024900006,
+    "price": "0.45"
+}{
+    "name": "Yleisperuna Colomba, 1...",
+    "ean": 6415350016191,
+    "price": "0.69"
+}{
+    "name": "Puikulaperunapussi",
+    "ean": 6414893388123,
+    "price": "1.25"
+}{
+    "name": "Kiinteä Harjattu Peruna",
+    "ean": 2000567300009,
+    "price": "0.45"
+}{
+    "name": "Peruna Annabelle 1kg p...",
+    "ean": 6415350017327,
+    "price": "0.69"
+}{
+    "name": "Muusiperuna",
+    "ean": 6414893388451,
+    "price": "0.89"
+}{
+    "name": "Yleisperunasäkki Harjattu",
+    "ean": 6415350004082,
+    "price": "5.29"
+}{
+    "name": "Siikliperuna Multa Irto",
+    "ean": 2005024800009,
+    "price": "1.19"
+}{
+    "name": "Keittoperuna",
+    "ean": 6414893388444,
+    "price": "0.89"
+}{
+    "name": "Peruna Siikli 1Kg",
+    "ean": 6414893388116,
+    "price": "1.15"
+}{
+    "name": "Jauhoinen Harjattu Peruna",
+    "ean": 2005024500008,
+    "price": "0.45"
+}{
+    "name": "Kevytperuna",
+    "ean": 6415350017501,
+    "price": "1.39"
+}{
+    "name": "Puikulaperuna Irto",
+    "ean": 2007221200002,
+    "price": "1.39"
+}{
+    "name": "Superpottu 2 Kg/Pss",
+    "ean": 6429990000946,
+    "price": "2.35"
+}{
+    "name": "Hirven Lapa Luuton",
+    "ean": 2001258900003,
+    "price": "39.50"
+}{
+    "name": "Poron Lapakäristys",
+    "ean": 2001483400002,
+    "price": "43.50"
+}{
+    "name": "Poron Lapakäristys",
+    "ean": 2001483400002,
+    "price": "43.50"
+}{
+    "name": "Broilerin Rintaleike",
+    "ean": 2001139600008,
+    "price": "10.50"
+}{
+    "name": "Kesäkurpitsa Vihreä",
+    "ean": 2000602800006,
+    "price": "5.15"
+}{
+    "name": "Varsiselleri",
+    "ean": 6414894500074,
+    "price": "1.75"
+}{
+    "name": "Parsakaali Pakattu",
+    "ean": 8710147570831,
+    "price": "0.89"
+}{
+    "name": "Lehtikaali",
+    "ean": 8714978023238,
+    "price": "2.79"
+}{
+    "name": "Munakoiso Pakattu",
+    "ean": 2003305400009,
+    "price": "5.49"
+}{
+    "name": "Ruusukaali Rasia",
+    "ean": 6414890123444,
+    "price": "2.15"
+}{
+    "name": "Fenkoli Irto",
+    "ean": 2000600300003,
+    "price": "3.89"
+}{
+    "name": "Luomuparsakaali Pak",
+    "ean": 6414890113711,
+    "price": "2.85"
+}{
+    "name": "Luomukesäkurpitsa",
+    "ean": 8713037003587,
+    "price": "7.16"
+}{
+    "name": "Myskikurpitsa",
+    "ean": 2000632900004,
+    "price": "1.75"
+}{
+    "name": "Haricot Papu",
+    "ean": 8718366693218,
+    "price": "1.59"
+}{
+    "name": "Munakoiso Luomu",
+    "ean": 8713037002849,
+    "price": "1.98"
+}{
+    "name": "Lehtikaali Ruukussa",
+    "ean": 6430050459109,
+    "price": "1.79"
+}{
+    "name": "Sokeriherne",
+    "ean": 8718366141511,
+    "price": "1.95"
+}{
+    "name": "Järvikylä min25g Herne...",
+    "ean": 6416046302000,
+    "price": "1.89"
+}{
+    "name": "Lounasitu 200g Mungpav...",
+    "ean": 6416332000603,
+    "price": "2.15"
+}{
+    "name": "Järvikylä min15g Vehnä...",
+    "ean": 6416046301003,
+    "price": "1.89"
+}{
+    "name": "Tankoparsa Vihreä",
+    "ean": 8429726000149,
+    "price": "3.95"
+}{
+    "name": "Luomuherneenverso Ruukku",
+    "ean": 6415350010830,
+    "price": "1.59"
+}{
+    "name": "Varsiselleri Luomu",
+    "ean": 8713037000258,
+    "price": "2.49"
+}{
+    "name": "Letkeän Lempeä Salaatti",
+    "ean": 6430048012019,
+    "price": "2.25"
+}{
+    "name": "Minimaissi Rasia",
+    "ean": 8718366833256,
+    "price": "1.89"
+}{
+    "name": "Esikeit. Maissi 2Kpl Luom",
+    "ean": 8420695004039,
+    "price": "2.59"
+}{
+    "name": "Rouskuvan Rapea Salaatti",
+    "ean": 6430048013016,
+    "price": "2.25"
+}{
+    "name": "Vau Miten Tulinen Sala...",
+    "ean": 6430048012040,
+    "price": "2.25"
+}{
+    "name": "Valloittavan Vihreä Sa...",
+    "ean": 6430048012026,
+    "price": "2.25"
+}{
+    "name": "Savojinkaali",
+    "ean": 2000612700006,
+    "price": "2.39"
+}{
+    "name": "Esikeitetty Maissi",
+    "ean": 6414894500630,
+    "price": "1.98"
+}{
+    "name": "Lounasitu 125g Sinimai...",
+    "ean": 6416332000504,
+    "price": "2.15"
+}{
+    "name": "Fenkoli Luomu",
+    "ean": 8713037000302,
+    "price": "2.55"
+}{
+    "name": "Lounasitu 200g Itusala...",
+    "ean": 6416332000405,
+    "price": "2.15"
+}{
+    "name": "Herneenversorasia",
+    "ean": 6430047720281,
+    "price": "2.69"
+}
